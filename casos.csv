@@ -1,24 +1,24 @@
 Casos;NOME
 94;Icarai
-18;Santa Rosa
+22;Santa Rosa
 2;Cubango
-11;Itaipu
+10;Itaipu
 4;Fatima
 16;Barreto
-8;Camboinhas
-15;Centro
-5;Charitas
+7;Camboinhas
+14;Centro
+7;Charitas
 7;Sao Francisco
-11;Engenhoca
+12;Engenhoca
 24;Fonseca
-8;Inga
+9;Inga
 1;Pendotiba
 3;Badu
 3;Maria Paula
 2;Largo da Batalha
 7;Piratininga
 2;Sao Domingos
-3;Vital Brazil
+4;Vital Brazil
 1;Varzea das Mocas
 3;Sao Lourenco
 2;Caramujo
@@ -28,8 +28,10 @@ Casos;NOME
 1;Sape
 3;Matapaca
 1;Jurujuba
-1;Ititioca
+2;Ititioca
 3;Maceio
 1;Baldeador
 1;Gragoata
 1;Tenente Jardim
+1;Engenho do Mato;
+1;Serra Grande
